@@ -1,10 +1,4 @@
-//
-//  Sweet.swift
-//  firestoreapp
-//
-//  Created by Konstantinos Rizos on 18/01/2019.
-//  Copyright © 2019 Brian Advent. All rights reserved.
-//
+
 
 import UIKit
 import Firestore

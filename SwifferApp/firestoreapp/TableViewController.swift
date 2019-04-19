@@ -1,10 +1,4 @@
-//
-//  TableViewController.swift
-//  firestoreapp
-//
-//  Created by Brian Advent on 02.10.17.
-//  Copyright © 2017 Brian Advent. All rights reserved.
-//
+
 
 import UIKit
 import Firestore
