@@ -6,7 +6,7 @@ import Firestore
 class TableViewController: UITableViewController {
     
     var db:Firestore!
-    
+     
     var sweetArray = [Sweet]()
 
     override func viewDidLoad() {
